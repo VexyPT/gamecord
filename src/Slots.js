@@ -38,7 +38,7 @@ module.exports = class Slots extends events {
     board += `${this.wrap(this.slot1, true)}  :  ${this.wrap(this.slot2, true)}  :  ${this.wrap(this.slot3, true)}\n`;
     board += '-------------------\n';
 
-    if (showResult) board += `| : :   ${(this.hasWon() ? 'WON ' : 'LOST')}   : : |`;
+    if (showResult) board += `| : :   ${(this.hasWon() ? 'GANHOU ' : 'PERDEU')}   : : |`;
     return (board + '```');
   }
 

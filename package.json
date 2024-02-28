@@ -1,6 +1,6 @@
 {
   "name": "gamecord",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Gamecord is a powerful npm package with a collection of minigames for your discord bot",
   "main": "index.js",
   "scripts": {
