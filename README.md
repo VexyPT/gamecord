@@ -1,6 +1,6 @@
 # **GAMECORD**
 
-> **Gamecord is a powerful npm package with a collection of minigames for your discord bot :)**
+> **Gamecord é um poderoso pacote npm com uma coleção de minijogos para o seu bot discord :)**
 
 
 ## **⚙️ Installation** 
@@ -9,15 +9,15 @@ npm i gamecord@latest
 ```
 
 
-## **✨ Features**
+## **✨ Características**
 
-- Easy to use.
-- Beginner friendly.
-- Slash Commands Games.
-- Supports Discord.js v14.
+- Fácil de usar.
+- Amigável para iniciantes.
+- Jogos de comandos de barra.
+- Suporta Discord.js v14.
 
 
-## **📚 Usage**
+## **📚 Uso**
 ```js
 const { Slots } = require('gamecord');
 
@@ -38,8 +38,8 @@ Game.on('gameOver', result => {
 ```
 
 
-## **📷 Preview**
-Soon
+## **📷 Pré-visualização**
+Em breve
 
-## **❔ Support**
-Soon
+## **❔ Suporte**
+Em breve
