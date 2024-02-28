@@ -1,0 +1,1 @@
+module.exports.Slots = require("./src/Slots");
