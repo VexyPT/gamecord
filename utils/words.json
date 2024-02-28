@@ -1,0 +1,11 @@
+{
+    "natureza": ["cachoeira", "ilha", "grama", "lago", "oceano", "vulcão", "flor", "folha", "deserto", "arbustos", "enchente", "colina", "floresta", "chuva", "árvore"],
+    "cor": ["azul", "verde", "vermelho", "amarelo", "rosa", "ciano", "cinza", "roxo", "laranja", "violeta", "prata", "marrom", "branco", "magenta", "bronze"],
+    "esporte": ["hóquei", "críquete", "futebol", "caratê", "boxe", "ciclismo", "natação", "luta livre", "basquete", "patinação", "corrida", "golfe", "voleibol"],
+    "acampamento": ["fogueira", "pesca", "ao ar livre", "caravana", "tenda", "churrasco", "paus", "lanterna", "mochila", "marshmallow", "mapa", "fósforos", "corda", "lanterna", "binóculos"],
+    "frutas": ["limão", "cereja", "abacaxi", "pêssego", "damasco", "uva", "maçã", "manga", "melão", "kiwi", "banana", "pera", "morango", "tomate", "coco"],
+    "discord": ["nitro", "hypesquad", "servidor", "adesivos", "clyde", "emoji", "banner", "parceiro", "impulso", "comandos", "bots", "chamada de voz", "brilhantismo", "equilíbrio", "tableflip"],
+    "inverno": ["cobertores", "casaco", "ártico", "luvas", "aquecedor", "granizo", "hibernar", "gelo", "jaqueta", "patins", "trenó", "bola de neve", "meias", "suéter", "lã", "fornalha", "congelamento"],
+    "pokemon": ["geodude", "doduo", "charmander", "beedril", "victreebel", "machoke", "raichu", "caterpie", "cubone", "mankey", "pikachu", "squirtle", "tauros", "pikachu", "bulbasaur"],
+    "wordle": ["adorar", "maçã", "áreas", "cadeira", "limpar", "núcleos", "duelos", "espumante", "fantasma", "culpa", "entrada", "introdução", "rir", "metrô", "deitado", "parece", "sapatos", "limo", "mancha", "tempestade", "deslizar", "tópico", "pisar", "debaixo"]
+}

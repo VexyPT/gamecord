@@ -1,6 +1,7 @@
 # **GAMECORD**
 
 > **Gamecord é um poderoso pacote npm com uma coleção de minijogos para o seu bot discord :)**
+(Versão traduzida do discord-gamecord)
 
 
 ## **⚙️ Installation** 
