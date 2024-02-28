@@ -30,6 +30,11 @@ const Game = new Slots({
     },
     slots: ['🍕','🍔','🍟','🌭','🍿']
 });
+
+Game.startGame();
+Game.on('gameOver', result => {
+    console.log(result);
+});
 ```
 
 
